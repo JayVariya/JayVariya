@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/main/Assets/Name.png" 
-     alt="Name" 
-     width="100%" 
-     style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Learning+Unity+and+C%23;Building+Immersive+Gaming+Experiences;Graphics+and+3D+Design+Enthusiast" />
