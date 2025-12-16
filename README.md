@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/main/Assets/Name.png" 
+  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/main/assets/JayName.png" 
      alt="Name" 
      width="100%" 
      style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
