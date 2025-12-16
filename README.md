@@ -1,83 +1,101 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/main/Assets/Name.png" 
+     alt="Name" 
+     width="100%" 
+     style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
+</p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=SYSTEM+ONLINE...;USER:+JAY+VARIYA;WEB+DEVELOPER+%7C+PROGRAMMER;GRAPHICS+DESIGN+ENTHUSIAST;BUILDING+EFFICIENT+CODE" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFD1&center=true&vCenter=true&width=600&lines=Game+Developer+%7C+Designer;Learning+Unity+and+C%23;Building+Immersive+Gaming+Experiences;Graphics+and+3D+Design+Enthusiast" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/main/Assets/Train.gif"
+       alt="Mystery Man GIF"
+       width="100%"
+       style="max-width: 800px; border-radius: 20px; overflow: hidden;"/>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### **TECH STACK**
+<div>
+  <img src="https://skillicons.dev/icons?i=cs,unity,cpp,c,python,mysql,html,css,git&theme=dark" alt="Skills">
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### **GITHUB STATISTICS**
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayVariya">
+            <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JayVariya&theme=tokyonight"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-readme-activity-graph.vercel.app/graph?username=JayVariya">
+            <img width="705" src="https://github-readme-activity-graph.vercel.app/graph?username=JayVariya&theme=react">
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayVariya">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JayVariya&theme=tokyonight"/>
+          </a>
+        </th>
+        <th>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayVariya">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JayVariya&theme=tokyonight"/>
+          </a>
+        </th>
+      </tr>
+    </tbody>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayVariya">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JayVariya&theme=tokyonight"/>
+          </a>
+        </td>
+        <td>
+          <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayVariya">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JayVariya&theme=tokyonight"/>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JayVariya/JayVariya/output/github-snake-dark.svg" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### **TROPHIES**
+<div align="center">
+  <a href="https://github-trophies.vercel.app/?username=JayVariya" target="_blank">
+    <img src="https://github-trophies.vercel.app/?username=JayVariya&theme=radical&margin-w=4&margin-h=4">
   </a>
-
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=JayVariya&label=PROFILE+VIEWS&style=flat-square&color=0e75b6" alt="Profile Views" />
-  </p>
-
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📡 User Profile: `Loaded`
-
-<pre>
-{
-  "user": "JayVariya",
-  "role": "Developer & Designer",
-  "main_quest": "Learning C++ & Python",
-  "tools": ["VS Code", "Git", "MySQL"],
-  "skills": ["Web Development", "Graphics", "Clean Code"],
-  "status": "Online"
-}
-</pre>
-
----
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,c,cpp,python,mysql,git,vscode,linux&theme=dark" />
-  </a>
-</div>
-
----
-
-### 📊 Metric Analysis
-
-<div align="center">
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JayVariya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97&icon_color=8b949e" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayVariya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79ff97" />
-  </a>
-
-</div>
-
-<br>
-
-<div align="center">
-  
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayVariya&theme=tokyonight&hide_border=true&background=0D1117&ring=79ff97&fire=79ff97&currStreakNum=white" />
-  </a>
-
-</div>
-
----
-
-### 🧩 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JayVariya&bg_color=0D1117&color=79ff97&line=79ff97&point=white&area=true&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JayVariya&theme=tokyonight&no-frame=true&margin-w=4&row=1" />
-</div>
-
-<div align="center">
-  <br>
-  <samp>End of transmission_</samp>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JayVariya&label=Profile%20views&color=770677&style=for-the-badge&logo=star"
+       alt="JayVariya"
+... (7 lines left)
